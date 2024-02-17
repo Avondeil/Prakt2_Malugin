@@ -15,6 +15,7 @@ int main()
     cout << "Температура воздуха: " << weather.temperature << endl;
     cout << "Влажность: " << weather.humidity << "%" << endl;
     cout << "Скорость ветра: " << weather.windSpeed << "м/с" << endl;
+    return 0;
 }
 
 

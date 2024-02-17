@@ -27,5 +27,6 @@ int main()
         arr[i][1] = save;
         cout << arr[i][0] << " " << arr[i][1] << endl;
     }
+    return 0;
 }
 
